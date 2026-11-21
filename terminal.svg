@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="860" height="542" viewBox="0 0 860 542" role="img" aria-labelledby="t d">
   <title id="t">cnasir's terminal</title>
-  <desc id="d">Abdinasir Muhumed (cnasir), full-stack engineer who builds AI products end to end. Results, projects, what he's working on now, and his stack.</desc>
+  <desc id="d">Abdinasir Muhumed (cnasir), full-stack product engineer moving into agentic systems. Results, projects, what he's working on now, and his stack.</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #39ff6a; white-space: pre; }
     .p { fill: #1fa84a; }
@@ -20,7 +20,7 @@
   <text x="430" y="22" text-anchor="middle" class="p" style="font-size:12px">cnasir@dallas: ~</text>
 
   <g class="l" style="animation-delay:.2s"><text x="24" y="66"><tspan class="p">cnasir@dallas:~$</tspan><tspan class="c"> whoami</tspan></text></g>
-  <g class="l" style="animation-delay:.6s"><text x="24" y="88">Abdinasir Muhumed (cnasir) · full-stack engineer who builds AI products end to end</text></g>
+  <g class="l" style="animation-delay:.6s"><text x="24" y="88">Abdinasir Muhumed (cnasir) · full-stack product engineer moving into agentic systems</text></g>
 
   <g class="l" style="animation-delay:1.1s"><text x="24" y="124"><tspan class="p">cnasir@dallas:~$</tspan><tspan class="c"> cat results.txt</tspan></text></g>
   <g class="l" style="animation-delay:1.5s"><text x="24" y="146"><tspan class="m">[ok]</tspan> replaced part of a $50K/yr vendor tool with React, DeckGL and Python</text></g>

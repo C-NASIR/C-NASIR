@@ -1,4 +1,4 @@
-<img src="terminal.svg" alt="Abdinasir Muhumed (cnasir), full-stack engineer who builds AI products end to end: results, projects, what I'm working on now, and my stack" width="100%">
+<img src="terminal.svg" alt="Abdinasir Muhumed (cnasir), full-stack product engineer moving into agentic systems: results, projects, what I'm working on now, and my stack" width="100%">
 
 ```console
 cnasir@dallas:~$ open --projects
