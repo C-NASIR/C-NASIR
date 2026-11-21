@@ -11,6 +11,12 @@ cnasir@dallas:~$ open --projects
 - [**distributed-rate-limiter**](https://github.com/C-NASIR/distributed-rate-limiter): rate limiting as a service over HTTP and gRPC · [write-up](https://cnasir.dev/work/rate-limiter)
 
 ```console
+cnasir@dallas:~$ open --open-source
+```
+
+- [**PostHog**: allow creating static cohorts from criteria](https://github.com/PostHog/posthog/pull/53102) (merged)
+
+```console
 cnasir@dallas:~$ open --teaching
 ```
 
